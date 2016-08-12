@@ -1,0 +1,9 @@
+''' The unicorn baked(verb) a cake(singular noun) for his friend the elephant(noun). Unfortunately, the cake(noun used before) had brie(noun) in it,
+ to which his friend was allergic to. His friend began to run(verb) uncontrollably and ran away to the local bakery. The unicorn ran(verb) after his friend
+ where he found him eating dozens of brownies(noun). '''
+
+
+verb = input("Type a verb.")
+singular_noun1 = input("Type a singular noun.")
+singular_noun2 = input(Type a singular noun.")
+print("The unicorn " + verb + " a " + singular_noun + " for his friend the " + singular_noun2 + ".")
